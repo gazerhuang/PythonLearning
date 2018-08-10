@@ -3,6 +3,7 @@ num = 10
 
 
 def demo1():
+    num = 1
     print("demo1: %d" % num)
 
 

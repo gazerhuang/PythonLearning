@@ -3,6 +3,8 @@ num = 10
 
 
 def demo1():
+    global num
+    num = 1
     print("demo1: %d" % num)
 
 
