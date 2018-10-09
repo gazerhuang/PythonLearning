@@ -1,5 +1,4 @@
 print(input("aa:"))
 print(input("test:"))
 print(input("test2"))
-print("108")
-print("105test")
+print("109")
